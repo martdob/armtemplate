@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_template_name": {
+            "value": null
+        },
+        "networkInterfaces_template57_name": {
+            "value": null
+        },
+        "publicIPAddresses_template_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_Template_vnet_name": {
+            "value": null
+        },
+        "privateEndpoints_endpointtemplate_name": {
+            "value": null
+        },
+        "networkSecurityGroups_template_nsg_name": {
+            "value": null
+        },
+        "storageAccounts_storagetemplateaparavi_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_file_core_windows_net_name": {
+            "value": null
+        },
+        "networkInterfaces_endpointtemplate_nic_b180c0a1_e692_4293_ad1d_daa980490183_name": {
+            "value": null
+        }
+    }
+}
